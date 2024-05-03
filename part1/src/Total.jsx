@@ -3,7 +3,7 @@
 
 const Total=(props)=>{
 
-    return <p>{props.suma}</p>
+    return <p>Number of exercises {props.suma}</p>
 }
 
 export default Total
